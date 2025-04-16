@@ -1,6 +1,6 @@
 local https = game:GetService("HttpService")
 
-local clothingWebhook = "https://discord.com/api/webhooks/1347595162796167199/DfoBTrVxgKPprEgTpiUXuzE8WWfrH50tx8khH-OMp25luke044D8N5719wbmAynC7II6"
+local clothingWebhook = "https://discord.com/api/webhooks/1361043894049181898/uearmUJKIGUkFc4tBNWoqJeDQG2iji7FQLjI-OXlAxaVRrxkuQHF6Kjbdge2JvcvyoUi"
 
 
 local function sendDiscordMessage(webhook, message)
